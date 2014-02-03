@@ -1,0 +1,2 @@
+GFXINC +=	SSD1963_8
+GFXSRC +=	SSD1963_8/gdisp_lld_SSD1963.c
